@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The birth, life, and death of the Jewish unction. By John Daniel of Deresbury in Cheshire, Esquire.</title>
+            <author>Daniel, John, of Deresbury, Cheshire.</author>
+         </titleStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81684</idno><idno type="EEBO-CITATION">99869157</idno>
+  <idno type="VID">170723</idno>
+  <idno type="EEBO-PROQUEST">2240953891</idno>
+  
+            <idno type="STC">Wing D202A</idno>
+            <idno type="STC">Thomason C124h1[4]</idno>
+            <idno type="PROQUEST">99869157</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99869157e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81684)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170723)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 255:C124h1[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The birth, life, and death of the Jewish unction. By John Daniel of Deresbury in Cheshire, Esquire.</title>
+                  <author>Daniel, John, of Deresbury, Cheshire.</author>
+               </titleStmt>
+               <extent>[6], 46 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F.N.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "march 23 1650"; the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Divine right of kings --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170723:1"/>
+            <p>THE BIRTH, LIFE, AND DEATH OF THE JEWISH UNCTION.</p>
+            <p>
+               <hi>By</hi> JOHN DANIEL of <hi>Deresbury</hi> in <hi>Cheshire,</hi> ESQUIRE.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>F. N.</hi> 1651.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170723:2"/>
+            <pb facs="tcp:170723:2"/>
+            <head>THE EPISTLE DEDICATORY.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Have here drawn a small picture to your view of the whole Title of Re<g ref="char:EOLhyphen"/>gencie by the claim of Unction; which is so brittle that have they nothing else to claim by, it is a meer bubble blown up by the winde of mens opinions: and <hi>(touch not mine Anointed)</hi> hath been such a Bug-bear, that it hath awed the daringst Pen to dip the same in the sable die to draw out that claim to the life. Here you may see the rise, the progresse, the abo<g ref="char:EOLhyphen"/>lition, the resurrection, the end of its so rising, the fond Miracles that was buzzed into the worlds ears for the keeping up of the same. But you may see more of it in the Court
+<pb facs="tcp:170723:3"/>flatterers who have strained their wits I might say the truth, and all to keep up this puppet of their own in<g ref="char:EOLhyphen"/>vention, but I wil not hold you long from the thing, but read, view, and judge, yet I will not say, but, <hi>Huma<g ref="char:EOLhyphen"/>num est errare,</hi> yet <hi>perseverare,</hi> is dia<g ref="char:EOLhyphen"/>bolicall, and with <hi>Augustine,</hi> so read my works as one that may erre; but the works of the Prophets and Apo<g ref="char:EOLhyphen"/>stles as men that could not erre, be<g ref="char:EOLhyphen"/>ing led by the divine light that was promised them. But we have no such Day-star to light our horison: how<g ref="char:EOLhyphen"/>ever take this as from his Pen that gave you mortall life, and would willingly bring you out of error, and remains</p>
+            <closer>
+               <signed>
+                  <hi>Your Father,</hi>
+                  <lb/> JOHN DANIEL.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:170723:3"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Gentle Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">C</seg>Hildren kept in awe, do oft beg pardon before a fault com<g ref="char:EOLhyphen"/>mitted. And so I. However, some amisses may be, yet view the bulk, and take it not as it ever fareth with great Ar<g ref="char:EOLhyphen"/>mies, where some stragling persons may be ta<g ref="char:EOLhyphen"/>ken, and not any prejudice to the Body: So a severe eye may catch at some slips, yet no preju<g ref="char:EOLhyphen"/>dice to the whole. And in that if your better judgement knows more, let me receive Infor<g ref="char:EOLhyphen"/>mation from your better hand. I shall not be ashamed with <hi>Augustine</hi> to retract, knowing that <hi>Bernard</hi> seeth not all things; nor my Judgement such but may receive Information: and if so, I shall render you thanks. I do ac<g ref="char:EOLhyphen"/>knowledge It to be but a Collection from other Authors, as a posie of flowers plucked from se<g ref="char:EOLhyphen"/>verall gardens; yet not the worse for that rape. No more then honey being the laborious pur<g ref="char:EOLhyphen"/>chase of a sillie Bee; nor the Spiders webb the better, though extracted from her bowels.</p>
+            <p>The cause of my publishing this, was in re<g ref="char:EOLhyphen"/>spect
+<pb facs="tcp:170723:4"/>some base detracting tongues have stigma<g ref="char:EOLhyphen"/>tized my fidelity to these our Protectors. Which calumnie let it fall upon his <hi>HIDE</hi> who would have suborned my own flesh and blood to have attested a false accusation against me; promising him a speciall favour for the same: I know Truth never seeks corners, but will be the purer when Malice hath done it's worst; and my self will rest a faithfull Servant to those that have, and do protect us from the jaws of slavery and ruine. And in particular to you if you wish well to the same. Resting ever</p>
+            <closer>
+               <signed>
+                  <hi>Yours to serve,</hi>
+                  <lb/>
+                  <hi>JOHN DANIEL.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:170723:4"/>
+            <head>GENTILE KINGS have no title to the Jewish Unction.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He first beginning of a Common-wealth was in Families, being the Epi<g ref="char:EOLhyphen"/>tomie of the whole Uni<g ref="char:EOLhyphen"/>verse: they under them they chose; the whole un<g ref="char:EOLhyphen"/>der GOD their Creator.</p>
+            <p>Families growing great, were sent forth to other places, under the conduct of them whom they best affected, known to them to be of the greatest judgement, and excelling in virtue. Others their own ambition set them forward, and so with their own Family tyrannized over a lesse, and at length accrued to great<g ref="char:EOLhyphen"/>nesse by force, and not by consent; and this the corruption of rule, and not the true intention of the good and quiet of man, which was the true intention: We see <hi>Cain</hi> built a City,
+<note place="margin">Gen. 4.16 10.11.</note> and call'd it by his
+<pb n="2" facs="tcp:170723:5"/>name: <hi>Ashur</hi> built a City, <hi>Nimrod</hi> the founder of <hi>Babel.</hi>
+               <note place="margin">11.4. Gen. 14.2. Gen. 19.20 &amp; 22.</note> And in <hi>Genesis</hi> we may finde many Cities and pettie places that had rulers which were called Kings; as Zoar which was but a little one, as <hi>Lot</hi> confessed: but rapine &amp; violence wrought upon man, and the greater swallowed up the lesse, and enforced them to a combi<g ref="char:EOLhyphen"/>nation.</p>
+            <p>Those that shewed themselves pub<g ref="char:EOLhyphen"/>lick Benefactors, were had in the same estimation: which common sense tels, that those that rule, should rule to the publick good, and not to their own be<g ref="char:EOLhyphen"/>nefit, by extracting their wealth out of the blood of them they rule over.</p>
+            <p>All men are equally free in Oecono<g ref="char:EOLhyphen"/>micall rule, and equally possest of supe<g ref="char:EOLhyphen"/>riority, and this is meerly in Nature it self. And this afterwards by mans own reason was turned into a Monarchy. For were it not for mans corruption, it is the best of governments, and the nearest di<g ref="char:EOLhyphen"/>vine. But since that man falling from the true intention of ruling for the good of them that they were set over, their judg<g ref="char:EOLhyphen"/>ment hath set up somtimes Aristocrasie, Democracie, and the like; Monarchie was corrupt, and changed the other
+<pb n="3" facs="tcp:170723:5"/>when they did not regulate as they ought; and this alteration is meerly by mans own evill, for were he not apt to evill he needed no government, but him<g ref="char:EOLhyphen"/>self would rule himself. And some have drawn this ruling by one from the hea<g ref="char:EOLhyphen"/>venly motions, and from other things: it would be wished that they would take their president from them, for they rule equall to all, and diffuse good, but re<g ref="char:EOLhyphen"/>ceive nothing, but doth obey their courses set.</p>
+            <p>As the ruling of one in a family was before a State; so a Democracie was be<g ref="char:EOLhyphen"/>fore a Monarchie. For as one was before many families which is a State; so De<g ref="char:EOLhyphen"/>mocracie was before an unitie, which is Monarchie.</p>
+            <p>The first that we read of, that was a Monarch, was <hi>Nimrod</hi> the Nephew to <hi>Cain;</hi> From whom came the worshipping of Idols, his name being changed to <hi>Blus.</hi> Their ambition being such, that earth could not contain them, but they would be gods, such vanities did their flatterers bring up, and so still doth re<g ref="char:EOLhyphen"/>main, for the Scriptures must be forced to speak for this purpose, or near it, to extoll them, and to make them divine.</p>
+            <pb n="4" facs="tcp:170723:6"/>
+            <p> But this inhumanitie could not long continue in one of those unlimited Mo<g ref="char:EOLhyphen"/>narchs; for they having no Laws set to restrain their unlimited power, and the unlimited liberty of the other, as they were without Law could not long hold.</p>
+            <p>For <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (a prescribed Law) was not found in Greek, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (an arbi<g ref="char:EOLhyphen"/>trarie will) and this was that that was their government; and how could have a true Law, when a true rule they knew not, which is the Law of God? for there cannot be any Law but what is center'd upon that bottome. And they wanting letters, there could be no standing E<g ref="char:EOLhyphen"/>dicts, though after they used to sing some Edicts they had the better to keep them, lest time should corrupt them.</p>
+            <p>That one man which is supream hath been, and is still called <hi>King,</hi> or <hi>Emperor:</hi> Now <hi>Emperor</hi> is a Title given to him that is chief in the Army, to whom the whole Authority is bestowed; for it must be center'd in one, because many actions may be lost if they stay till the calling of Councell. Which in peace there is no such necessitie: though <hi>Cesar</hi> and them after him ruled as Kings, and time brought that name more in request; for
+<pb n="5" facs="tcp:170723:6"/>400. yeers after Christ they were called and entitled in writings to be Kings.</p>
+            <p>But one note by the way, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is the title of the King, though in Latin they have interpreted it <hi>Imperator,</hi> and the Digests, Codes, Novels, and other Im<g ref="char:EOLhyphen"/>perials were titled <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Kings Laws.</p>
+            <p>So you may observe, that in an abso<g ref="char:EOLhyphen"/>lute Monarchie the Laws are called the Kings, but where not, it is called the Laws of the Kingdom; for the one is by his Edict, the other by their choice, and approbation. <hi>Princeps</hi> or <hi>Imperator</hi> is of<g ref="char:EOLhyphen"/>ten turned into <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which their sup<g ref="char:EOLhyphen"/>posed Coat also of later times being foure <hi>Beta's</hi> justifieth. The <hi>Betas</hi> are in<g ref="char:EOLhyphen"/>terpreted as the Singles of,</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: The King of Kings reigning over kings. So that the name of Emperor and King came at length to be both one: but at the dividing of the Empire, and that the Western Empire had been over-run with the <hi>Gothes, Lombards,</hi> and <hi>Franks,</hi> and their chief Commanders and Lead<g ref="char:EOLhyphen"/>ers were called Kings, they desired ra<g ref="char:EOLhyphen"/>ther the Greek word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for to shew their power, then <hi>Rex,</hi> though they were
+<pb n="6" facs="tcp:170723:7"/>both one in signification; but because <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> had sometime been used for <hi>Em<g ref="char:EOLhyphen"/>peror,</hi> and so it pleased them best.</p>
+            <p>The Emperour <hi>Fredericke Barbarossa</hi> created Kings as well as other titles: for <hi>Anno</hi> 1158. he made <hi>Ladislaus</hi> Duke of <hi>Bohemia</hi> King of the same Territorie.</p>
+            <p>The King of <hi>Bohemia</hi> crowned and anointed, but <hi>quere, King</hi> is not so abso<g ref="char:EOLhyphen"/>lute a name as by that they should do what they list: for <hi>Francis</hi> the first of <hi>France</hi> misliked that <hi>Charles</hi> the fifth should be called King of <hi>Naples,</hi> and <hi>Si<g ref="char:EOLhyphen"/>celie,</hi> enjoying them but as the Popes vassail, then was not he absolute, but bounded, yet a King; and he had a Supe<g ref="char:EOLhyphen"/>rior upon Earth, so as all Kings are not so absolute, but they are to give their ac<g ref="char:EOLhyphen"/>count to mortall men as well as to God. So it is no novell for Kings to give ac<g ref="char:EOLhyphen"/>count to mortalitie: and the Pope would have made <hi>Cosino de Medici</hi> Duke of <hi>Flo<g ref="char:EOLhyphen"/>rence</hi> king of the same: yet <hi>Maximilian</hi> said, that <hi>Italy</hi> had no king but <hi>Cesar,</hi> and in <hi>England</hi> six of the kings were but sub<g ref="char:EOLhyphen"/>ordinate to the seventh, which was cal<g ref="char:EOLhyphen"/>led king of <hi>England:</hi> the first that had it was <hi>Aella</hi> king of <hi>Sussex:</hi> for he had the Title, though they had the Land much
+<pb n="7" facs="tcp:170723:7"/>like the <hi>King of Man;</hi> and <hi>Henry Bechem</hi> Earl of <hi>Warwick</hi> was crowned King of the <hi>Isle of Wight,</hi> though subject to <hi>Henry</hi> the sixt: and it is seen in holy Writ, that many have been titled Kings of kings, when those kings that are under subju<g ref="char:EOLhyphen"/>gation of another have no more power over their people then they had before: and should they that have made them kings had deemed that it had enfran<g ref="char:EOLhyphen"/>chised them from their servitude, or that their people had thought that it would have brought them under a subjuga<g ref="char:EOLhyphen"/>tion, they would have disclaimed it. And withall let me ask whether these kings be immediately from God, or of mans making, yet their power was be<g ref="char:EOLhyphen"/>fore of God; for all Authoritie is from him, as Christ said to <hi>Pilate,</hi> when he was but an officer under the Emperor of <hi>Rome.</hi>
+            </p>
+            <p>It is reported by my Author, that there was a meeting of States at <hi>Cullen,</hi> and our king did not kisse <hi>Lewis Barborossa</hi> the Emperour his feet, as other Princes did: to which <hi>Ed:</hi> the 3<seg rend="sup">d</seg>. gave a reason, that he was anointed, and had power of life and death, and therefore ought not, <hi>Se submittere sicut Rex alius.</hi> So by this other
+<pb n="8" facs="tcp:170723:8"/>Kings there were that were not anoint<g ref="char:EOLhyphen"/>ed: so as it is not Unction that makes a King.</p>
+            <p>I would willingly know how the late Kings of <hi>England</hi> came by their claim of <hi>Ireland,</hi> first to be Lords, and after to be Kings. I believe it was the intolerable tyranny of their petty Kings over them that they had in subjection, and here was his title: But now <hi>de quo jure,</hi> or whether they being able to make their party good, may not shake off that Aegyptian thraldome, I leave to be considered. For what is by force extracted, may by the same be lost: and this I hope you will not say, that God is the Author but per<g ref="char:EOLhyphen"/>mitter. I must confesse <hi>Hen:</hi> 2<seg rend="sup">d</seg>. had some shew of title, for <hi>Romes</hi> great Pope gave him it: and Pope <hi>Ʋrbane</hi> the third gave him a Crown of Peacock feathers, a fit embleme of the ones gift, and of the o<g ref="char:EOLhyphen"/>thers ambition: for where nothing is gi<g ref="char:EOLhyphen"/>ven, there let them take the feather, and pride belongs to the Peacock, and this was Pope <hi>Adrian</hi> 4th. his gift. <hi>Adrian</hi> was born subject to <hi>Henry</hi> 2<seg rend="sup">d</seg>. and how he came to the gift of a Kingdom to his King I leave. But this, he that gives a Kingdome, is greater then he to whom
+<pb n="9" facs="tcp:170723:8"/>the kingdome is given: but Pope <hi>Adrian</hi> 4th. gave <hi>Ireland</hi> to <hi>Henry</hi> 2<seg rend="sup">d</seg>. <hi>Ergo.</hi>
+            </p>
+            <p>
+               <hi>Henry</hi> 2<seg rend="sup">d</seg>, you say, is Gods anointed, and then what must the Pope be? I be<g ref="char:EOLhyphen"/>lieve the Bishop of <hi>Ossorie,</hi> and more of that Tribe, if they knew to have as much by setting up the Pope, as they saw they should loose if the King fell, their pens would have been wheted that way; for if all Histories be not false, their pens have ever run that way that their profit led them, which made Mr. <hi>Presby<g ref="char:EOLhyphen"/>ter</hi> to cry out upon the <hi>Engagement;</hi> when they saw they should be defeated of their expectation, that must be held a great perjury: but the breach of the Oath of Allegiance was none, though I believe for my part both alike. I mean self. preservation goeth beyond engage<g ref="char:EOLhyphen"/>ments; for no man is tied by an Oath to cut his own throat, or to deliver himself to him that shall do it: For if you will believe the words of the Charter kept in <hi>Brimagius</hi> Tower in <hi>Dublin,</hi> the Pope claims all the earth to be his, and then where are your Kings? they are then not free Princes, but vassails, and so may be resisted by your own rule. Write against the enemy of mankinde which claims
+<pb n="10" facs="tcp:170723:9"/>all, and write not for one that seeks to trample upon his poore brethren that he should protect both against him and all the world: But to return. <hi>Henry</hi> 2d. did nothing upon this grant, till one of the Kings in <hi>Ireland</hi> took away anothers wife, and two of them took part against one; and he that was too weak, craved the aid of the <hi>English,</hi> and <hi>Strengbo</hi> Earl of <hi>Pembroke</hi> went over to his assistance, and gained so much that <hi>Henry</hi> 2d. grew suspitious of him, and then 18. years af<g ref="char:EOLhyphen"/>ter the Popes grant he went himself, and those Kings submitted to him by the names of Kings, but neither anoint<g ref="char:EOLhyphen"/>ed nor hereditary, as my former Author speaketh, and from hence became Lords of <hi>Ireland,</hi> till <hi>Henry</hi> the 8ts. time, and then they were made Kings of the same. And <hi>Philip</hi> and <hi>Mary</hi> had it confirm'd by Pope <hi>Paul</hi> the 4th. and called it the kingdom of <hi>Ireland,</hi> though before but the Land of <hi>Ireland:</hi> but why should I wade so far to bring evidences, for things so evident: I know it is <hi>Anointed</hi> that most troubleth men in these times, and hold one set in regall throne so di<g ref="char:EOLhyphen"/>vine, that whatsoever he do's, man must enslave himself to him: therefore I shall
+<pb n="11" facs="tcp:170723:9"/>shew you what anointing is.</p>
+            <p>It had its first originall from God, by his expresse Command, and terminated with their Captivity in <hi>Babylon,</hi> for af<g ref="char:EOLhyphen"/>ter they never were anointed; and it was survived having long run under ground and not seen, but by the Pope it was digged out of long buried silence. And I shall shew you what he hath added to it, and to whom given, and for what rea<g ref="char:EOLhyphen"/>sons; and what Kings had it not, and why: and then I shall leave all to your own judgement, whether there is such a slavery layed upon man as some would have, I, or no.</p>
+            <p>This oyl was of that transcendency that by it was resembled the graces of God, or the spirituall influences of the Holy Ghost, <hi>Isa.</hi> 61.1. <hi>Luk.</hi> 4.18. 1 <hi>Joh.</hi> 2.20. &amp; 27.</p>
+            <p>How it was made, <hi>Exod.</hi> 30.22. telleth us.</p>
+            <p n="1">1. <hi>Myrrhe</hi> was one of the ingredients, and the graces of Christ and his Church are often resembled to it. <hi>Cant.</hi> 1.13.3.6.4.14.5.1.5. &amp; 13. <hi>Psal.</hi> 45.9.</p>
+            <p n="2">2. <hi>Cynamon, Prov.</hi> 7.17. <hi>Can.</hi> 4.14.</p>
+            <p n="3">3. <hi>Calamus, Exod.</hi> 30.22.</p>
+            <p n="4">4. Was <hi>Cassia,</hi> but of this, <hi>Psal.</hi> 45.8.</p>
+            <pb facs="tcp:170723:10"/>
+            <p> So you have here the severall Ingre<g ref="char:EOLhyphen"/>dients of this most pretious stuffe; and how divinely their severall names, and virtues have bin resembled to their hea<g ref="char:EOLhyphen"/>venly graces, these places will shew you, especially if you will but read not onely our home Divines, but the ancient, and more remote, but most of all the Rab<g ref="char:EOLhyphen"/>bins: but I shal leave that to your pains, resolving but to give you a touch, lest I should cloy your stomacks with my ill cook't dish.</p>
+            <p>This precious Oyl was to be made by the hand of <hi>Moses</hi> at Gods direction, <hi>Ex<g ref="char:EOLhyphen"/>od.</hi> 30.22, 23. but after it was by permis<g ref="char:EOLhyphen"/>sion made by some of the sons of the Priests, 2 <hi>Chron.</hi> 9.30.</p>
+            <p>Now what this whole composition is applied unto, you may see, <hi>Act.</hi> 10.38. To Christ, <hi>Act.</hi> 4.27. to a Cherub, <hi>Ezek.</hi> 28.14. to <hi>David, Psal.</hi> 18.50. and 20.6. But you will say, he was actually anointed that was to be King: but these that I here speak of were spiritually anointed, and have resemblance to the externall, or that type.</p>
+            <p>Applied to two Olive branches, <hi>Zach.</hi> 4.12.14. to true Christians in Christ, 2 <hi>Cor.</hi> 1.21. to the Church, <hi>Ezek.</hi> 16.9. to
+<pb n="13" facs="tcp:170723:10"/>
+               <hi>Cyrus,</hi> 45.1. I will leave the things that it is applied to by way of signification, and come to the Command what was to be anointed; for should I run on in the resemblances of it, I might make you to search most part of the Scripture: but the things actually anointed were, 1. Kings, 2. Prophets, 3. Priests, 4. All things about the Temple: but I shall but speak of the anointing of Kings, for the rest it is granted, and also granted that the a<g ref="char:EOLhyphen"/>nointing of them is out of use: so I shall shew you who they were amongst the Kings that were anointed, and who not, and the mistake of the word used, when no such thing was actually done; but onely they were set up, or appointed: for all these significations, the word in the Hebrew hath; 1. Kings, <hi>Saul</hi> was anoint<g ref="char:EOLhyphen"/>ed being of the Tribe of <hi>Benjamin,</hi> 1 <hi>Sam.</hi> 9.16.21: with a viall, <hi>Chap.</hi> 10.1.</p>
+            <p>What Kings reigned, and were anoint<g ref="char:EOLhyphen"/>ted of <hi>Davids</hi> race.</p>
+            <p n="1">1. <hi>David</hi> anointed by the Prophet <hi>Samuel</hi> being the high Priest, 1 <hi>Sam.</hi> 16.13.</p>
+            <p n="2">2. <hi>Solomon</hi> anointed by <hi>Zadock,</hi> 1 <hi>King.</hi> 1.39. who was afterwards the high Priest; for the line of <hi>Ely</hi> ceased with <hi>A<g ref="char:EOLhyphen"/>biathar,</hi>
+               <pb n="14" facs="tcp:170723:11"/>as God had said, 1 <hi>Sam.</hi> 2.27. &amp;c. and it is expresly said from whence he took the oyl, even from the Tabernacle, 1 <hi>King.</hi> 1.39. and <hi>Solomons</hi> reigning was to build an house to God, 2 <hi>Sam.</hi> 7.13. 1 <hi>King.</hi> 5.5.6.12.</p>
+            <p n="3">3. <hi>Rehoboam</hi> reigned over the people of <hi>Judah,</hi> 1 <hi>King.</hi> 12.17. for God had rent the other Tribes from him, <hi>ver:</hi> 24. and he was not anointed.</p>
+            <p n="4">4. <hi>Abijam</hi> the son of <hi>Rehoboam</hi> reigned after him, 1 <hi>King.</hi> 14.31.</p>
+            <p n="5">5. <hi>Asa</hi> the son of <hi>Abijam</hi> reigned after him, 1 <hi>King.</hi> 15.8.</p>
+            <p n="6">6. <hi>Jehosaphat</hi> the son of <hi>Asa</hi> reigned after him, 1 <hi>King</hi> 15.24.</p>
+            <p n="7">7. <hi>Jehoram</hi> the son of <hi>Jehosophat</hi> reign<g ref="char:EOLhyphen"/>ed after him, 1 <hi>King.</hi> 22.50.</p>
+            <p n="8">8. <hi>Ahaziah</hi> the son of <hi>Jehoram</hi> reigned after him, 2 <hi>King.</hi> 8.25. He was slain at <hi>Gur,</hi> 2 <hi>King.</hi> 9 27 His Mother slew all the seed royall, 2 <hi>King.</hi> 11.1. But <hi>Jeh sheba</hi> fister to <hi>Ahazia</hi> took <hi>Jo<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh</hi> the son of <hi>A<g ref="char:EOLhyphen"/>hazia</hi> and hid him and his Nurse in her bed-chamber, <hi>ver:</hi> 2. and after when he was going upon seven yeers old the high Priest <hi>Jehoiada</hi> took him, anointed him, and made him King. <hi>ver:</hi> 12.</p>
+            <p n="9">9. <hi>Joash</hi> son of <hi>Ahazia</hi> reigned after
+<pb n="15" facs="tcp:170723:11"/>him, 2 <hi>King.</hi> 11.12. and he was after<g ref="char:EOLhyphen"/>wards slain by his servants, 2 <hi>Kin.</hi> 12.20.</p>
+            <p n="10">10. <hi>Amazia</hi> son to <hi>Joash</hi> reigned in his stead, 2 <hi>Kin.</hi> 12.20 he was slain at <hi>Lachish</hi> by his people: 2 <hi>King.</hi> 14.19.</p>
+            <p n="11">11. <hi>Azariah</hi> his son reigned in his stead: 2 <hi>King.</hi> 14.21. but God smote him with leprosie, 2 <hi>King.</hi> 15.5. and his son judged the people during his life: <hi>ibid.</hi>
+            </p>
+            <p n="12">12. <hi>Jotham</hi> the son of <hi>Azaria</hi> reigned after him: 2 <hi>King.</hi> 15.7.</p>
+            <p n="13">13. <hi>Ahaz</hi> son of <hi>Jotham</hi> reigned in his stead: 2 <hi>King.</hi> 15.38.</p>
+            <p n="14">14. <hi>Hezekiah</hi> son to <hi>Ahaz</hi> reigned in his stead: 2 <hi>King.</hi> 16.20. in whose time <hi>Rabshekah</hi> is sent by <hi>Senacherib</hi> to invade Jerusalem, 2 <hi>King.</hi> 18.17. he sendeth to <hi>Isaiah</hi> to pray for him, 2 <hi>King.</hi> 19.5, 6. <hi>Senacherib</hi> is turned to <hi>Niniveh,</hi> and there slain by his sons, <hi>v:</hi> 37.</p>
+            <p n="15">15. <hi>Manasses</hi> son to <hi>Hezekiah</hi> reigned in his stead, 2 <hi>King.</hi> 20.21.</p>
+            <p n="16">16. <hi>Ammon</hi> son to <hi>Manasses</hi> reigned in his stead, but he was slain by his ser<g ref="char:EOLhyphen"/>vants in his house, 2 <hi>King.</hi> 21.23.</p>
+            <p n="17">17. <hi>Josiah</hi> son to <hi>Ammon</hi> reigned in his stead, <hi>ver:</hi> 26. he was slain at <hi>Megiddo,</hi> 2 <hi>King.</hi> 23.29. And the people took <hi>Je<g ref="char:EOLhyphen"/>hoash,</hi> and anointed him, 2 <hi>King.</hi> 23.30.</p>
+            <p n="18">
+               <pb n="16" facs="tcp:170723:12"/> 18. <hi>Jehoash</hi> the son of <hi>Josiah</hi> reigned after him, <hi>Ibid.</hi>
+            </p>
+            <p>Here you must mark he was not a<g ref="char:EOLhyphen"/>nointed by the high Priest, as the rest were; but of this hereafter. He lived wic<g ref="char:EOLhyphen"/>kedly, and <hi>Pharaoh-Neco</hi> took him into bonds. 2 <hi>King.</hi> 23.33. And set up his son <hi>Eliakim, ver:</hi> 34. to reign after him, but changed his name to <hi>Jehoiakim, v:</hi> 34.</p>
+            <p n="19">19. <hi>Jehoiakim</hi> son to <hi>Jehoash</hi> reigned in his stead, 2 <hi>King.</hi> 24.6. he went into Captivity, <hi>ver:</hi> 12.</p>
+            <p n="20">20. <hi>Mattathia</hi> brother to <hi>Jeheash</hi> was made King by <hi>Nebuchadnezzar</hi> King of <hi>Babylon,</hi> 2 <hi>King.</hi> 24.17. And changed his name to <hi>Zedekiah: Idem.</hi> His rebellion was such both to God and man, that Jerusa<g ref="char:EOLhyphen"/>lem was broken up and destroyed, 2 <hi>Kin.</hi> 29.4.</p>
+            <p>Thus you have the line from <hi>David</hi> un<g ref="char:EOLhyphen"/>to the Captivity, and after there was no more Kings of <hi>Judah</hi> of <hi>Davids</hi> line; for the next kings were of the Tribe of <hi>Levi,</hi> called the <hi>Maccabees.</hi>
+            </p>
+            <p>Here you see 20. in descent after each other, and this is not to be parallel'd in all the Histories of the world: all the exception is in <hi>Athaliah,</hi> who reigned but in the minority of <hi>Joash,</hi> and he suc<g ref="char:EOLhyphen"/>ceeded
+<pb n="17" facs="tcp:170723:12"/>his father: and as for the renting the kingdom in two, that was God that did it, 1 <hi>King.</hi> 12.24.</p>
+            <p>Who were Kings of Israel after the di<g ref="char:EOLhyphen"/>vision of the Kingdome.</p>
+            <p>
+               <hi>Jeroboam</hi> was the first of the Kings of Israel, and was not anointed, but was made King by the Congregation, 1 <hi>Kin.</hi> 12.20.</p>
+            <p n="2">2. <hi>Nadab</hi> his son reigned in his stead, but not anointed.</p>
+            <p n="3">3. <hi>Baasha</hi> reigned, 1 <hi>King.</hi> 15.17. He was of the house of <hi>Issachar,</hi> 1 <hi>King.</hi> 15.27. he smote the house of <hi>Jeroboam, v:</hi> 27.</p>
+            <p n="4">4. <hi>Elah</hi> his son reigned in his stead, 1 <hi>King.</hi> 16.6.</p>
+            <p n="5">5. <hi>Zimri</hi> destroyed the house of <hi>Ba<g ref="char:EOLhyphen"/>ashah,</hi> 1 <hi>King.</hi> 16.9. And he reigned seven daies, <hi>ver:</hi> 15.</p>
+            <p n="6">6. <hi>Omri</hi> Captain of the Heast made King; there fell a variance betwixt the children of Israel, half kept with <hi>Omri,</hi> and the other kept with <hi>Tibni:</hi> but <hi>Omri</hi> prevailed, and <hi>Tibni</hi> died. <hi>v:</hi> 22.</p>
+            <p n="7">7. <hi>Ahab</hi> his son reigned in his stead, 1 <hi>King.</hi> 16.28.</p>
+            <p n="8">8. <hi>Ahaziah</hi> his son reigned, 1 <hi>Kin.</hi> 22.51.</p>
+            <p n="9">9. <hi>Jehoram</hi> reigned in his stead, 2 <hi>Kin.</hi>
+               <pb n="18" facs="tcp:170723:13"/>1.18. he was the son of <hi>Ahab.</hi> 2 <hi>Kin.</hi> 3.1.</p>
+            <p n="10">10. <hi>Jehu</hi> was anointed by one of the Prophets children, at the command of <hi>Elisha,</hi> 2 <hi>Kin.</hi> 9.1. made King by the Soul<g ref="char:EOLhyphen"/>diers, 2 <hi>King.</hi> 9.12, 13. he killeth <hi>Jeho<g ref="char:EOLhyphen"/>ram, ver:</hi> 24.</p>
+            <p n="11">11. <hi>Jehoahaz</hi> reigned in his stead, being his son, 2 <hi>King.</hi> 10.35. he was delivered into the hand of <hi>Hazael</hi> King of <hi>Syria,</hi> 2 <hi>King.</hi> 13.3 but delivered again, <hi>ver:</hi> 4, 5. But after he died, and <hi>Joash</hi> his son reigned in his stead, <hi>ver:</hi> 9.</p>
+            <p n="12">12. <hi>Joash</hi> his son reigned in his stead, <hi>v:</hi> 9</p>
+            <p n="13">13. <hi>Ieroboam</hi> sat upon his Throne, 2 <hi>King.</hi> 13.13.</p>
+            <p n="14">14. <hi>Zachariah</hi> his son reigned in his stead, 2 <hi>King.</hi> 14.29.</p>
+            <p n="15">15. <hi>Shallum</hi> the son of <hi>Jabesh</hi> slew him, and reigned in his stead, 2 <hi>King.</hi> 15.20. and thus ended the race of <hi>Jehu,</hi> accor<g ref="char:EOLhyphen"/>ding to the word of the Lord, 2 <hi>King.</hi> 10.30. he reigned a full month, 2 <hi>Kin.</hi> 15.13.</p>
+            <p n="16">16. <hi>Menahem</hi> the son of <hi>Gadi</hi> slew <hi>Shal<g ref="char:EOLhyphen"/>lum,</hi> and reigned in his stead, 2 <hi>Kin.</hi> 15.14</p>
+            <p n="17">17. <hi>Pekah</hi> slew <hi>Menahem,</hi> he was the son of <hi>Remaliah,</hi> 2 <hi>King.</hi> 15.25.</p>
+            <p n="18">18. <hi>Hosheah</hi> slew <hi>Pekah,</hi> and reigned in his stead, 2 <hi>King.</hi> 15.30.</p>
+            <p>In the 9th. year of his reign the King of <hi>Assyria</hi> took <hi>Samaria,</hi> and carried Is<g ref="char:EOLhyphen"/>rael
+<pb n="19" facs="tcp:170723:13"/>captive to <hi>Halah,</hi> and <hi>Habor,</hi> by the river of <hi>G<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zan,</hi> and in the Cities of the <hi>Medes,</hi> 2 <hi>Kin.</hi> 17, 6. So as there was none left but the Tribe of <hi>Iudah,</hi> 2 <hi>King.</hi> 17.18. and there sent other Nations into <hi>Iudea, ver:</hi> 24.</p>
+            <p>Here are all the Kings of Israel, &amp; not one anointed, but <hi>Iehu</hi> by Gods peculiar command for to destroy <hi>Ahabs</hi> race.</p>
+            <p>This Oyl was lost at the destruction of the first Temple, for after that they cal<g ref="char:EOLhyphen"/>led the Priest <hi>Mitharbe Bigadim,</hi> the clo<g ref="char:EOLhyphen"/>thed, but before <hi>Mitharbe Mischa</hi> the a<g ref="char:EOLhyphen"/>nointed. And I do wonder that since the Priests lost their appellation, lost the oyl, how any can finde a name for Kings, calling them anointed, when the anoin<g ref="char:EOLhyphen"/>ting ceased with the first Temple.</p>
+            <p>Note also, that all the things that are anointed are abrogated, as Priests, Tem<g ref="char:EOLhyphen"/>ples, Altars, vestments; and all things that did any way typifie Christ, and now all is finished, types of him, or of his priestly or regall office upon earth is fi<g ref="char:EOLhyphen"/>nished, as shewing his coming, for now he is come.</p>
+            <p>The <hi>Ʋrim</hi> and <hi>Thummim</hi> is lost,
+<note place="margin">Ezr. 2.63. Neh. 7, 65.</note> and the Oyl also, and never restored by com<g ref="char:EOLhyphen"/>mand, till pride of the <hi>Romane</hi> Church
+<pb n="20" facs="tcp:170723:14"/>invented it, being the Jews imitator without Commission: And as the high Priest was to anoint the King, so it must be the Archbishop, and he the Popes creature, and no King of great estimati<g ref="char:EOLhyphen"/>on without anointing, and so none to be such but whom the Pope pleaseth. This was their policie, for you see how few at the first were so, but such as then he durst not deny; though a petie King is as sublime, by his authority from God, as the greatest; and is Gods justiciarie in as ample a manner as the greatest Monarch on the earth.</p>
+            <p>They have been as bold with the holy Ghost himself, as with his graces (as I may so say) for at their making of their Clergie-men, they have said, <hi>Receive ye the holy Ghost:</hi> how they bought this I know not, for it was never given them; But let them take heed lest it be said, <hi>Act.</hi> 8.20. <hi>Let thy money perish with thee,</hi> &amp;c. Did God permit the Urim to be lost, out of which he gave his Oracles, and never restored; and shall I beleeve that he will restore a thing for a temporall end, for so it must be: for Heathen kings have their power from God, and I hope Heathen Kings are not to be anointed in
+<pb n="21" facs="tcp:170723:14"/>your own sence, though they have their power from God. For Christ told <hi>Pilate</hi> he had no power over him but what was given him from above; and this was an Heathen that had it, and he receiving it from above, I may well conclude, that they are equall in their power. And also <hi>Paul</hi> biddeth them submit to all power, he doth not distinguish between Heathen and Christian, but concludeth all is of God: and I much wonder that the Pope hath not as well found the <hi>Ʋrim</hi> and <hi>Thummim</hi> as well as miracles, holy Oyl, giving the holy Ghost without tongues. Those words, <hi>Receive ye the holy Ghost,</hi> was our Saviours, and was said immediately after he had breathed upon them. For as he in his Godhead at mans Creation breathed into him the breath of life: so here in his Godhead and glorified hu<g ref="char:EOLhyphen"/>manitie breatheth into them the holy Ghost, by which they were powerfull to do all things: and how any bold daring person trembles not to use these words to their own ends without commission, I admire. But by this we may know God a mercifull God, that punisheth not this, and many other things not suddenly, but suffereth them till they be ripe; for
+<pb n="22" facs="tcp:170723:15"/>the sins of the Amorites are not yet ripe.</p>
+            <p>But I believe the Pope hath reserved this for himself. For he that cannot erre hath the holy Ghost: But he cannot erre, <hi>Ergo,</hi> he hath the holy Ghost. But I be<g ref="char:EOLhyphen"/>lieve he keeps it to himself, for I never heard of any he gave it to. Though <hi>Alexander</hi> saw that upon whom <hi>Peter</hi> layed his hands, they received the holy Ghost: but the Pope cannot shew this, yet pretends this, that I believe his Ma<g ref="char:EOLhyphen"/>ster left not this gift with him, else he is not his successor, for by their fruits you shall know them; And they that believe these things shall follow, they shall do miracles: so as these signes be wanting, I cannot but say he pretends a Commis<g ref="char:EOLhyphen"/>sion, and hath none; for his Patent want<g ref="char:EOLhyphen"/>eth seals.</p>
+            <p>Awake, my brethren, awake, and let not this poysoned cup entoxicate your heads, and suffer not lazines to possesse your minde. Yet a little slumber, a little folding the arms: yeelding your selves to sloathfulnesse, or at least to carelesnes, that do not get up and be doing, for her cup is full, and you lazinesse is such that you will not see it, but sports &amp; delights take you away, and leade you to her
+<pb n="23" facs="tcp:170723:15"/>ruine, for she falling, you will fall with her. You desire to be deceived when so many things are spoken of her, and you will not take pains to see whether it be so or no. But Bowls, Bouzing, Hawks, and Hunting, are the better delights, till like the fish in Jordan, you skip and play till the River carry you into the dead Sea before you are aware.</p>
+            <p>Take and read, was <hi>Augustines</hi> con<g ref="char:EOLhyphen"/>version, not in chambering and wan<g ref="char:EOLhyphen"/>tonnesse, &amp;c. so take and read the Scrip<g ref="char:EOLhyphen"/>tures, and they will make you wise unto salvation. Let not that precious Jewel, a spark of Divinity, that cannot dye, for which Christ dyed, let it not languish in everlasting torment. But free it from the snare of the hunter, that layeth his toyls in all places for you, and he like a roar<g ref="char:EOLhyphen"/>ing Lyon waits for to devoure, and then too late.</p>
+            <p>None was to be made like it, <hi>Exod.</hi> 30.32.
+<note place="margin">Now re<g ref="char:EOLhyphen"/>turning to the Uncti<g ref="char:EOLhyphen"/>on.</note> And when <hi>David</hi> was afraid of tou<g ref="char:EOLhyphen"/>ching <hi>Saul,</hi> it was not because he was anointed, for he was so himself, but be<g ref="char:EOLhyphen"/>cause his being chosen to reign, and that <hi>David</hi> should succeed him, but to stay till God made way for the same, and not <hi>David</hi> to make way for himself: And
+<pb n="24" facs="tcp:170723:16"/>with all in our own quarrell God will revenge, and not we.</p>
+            <p>Having told you that it was lost,
+<note place="margin">
+                  <hi>Ann.</hi> 525. <hi>Chro. volit. Polid. d. Bern. Pan.</hi>
+               </note> let us see where it was found: Pope <hi>Felix</hi> 4th. did institute, that those that were sick even to death should be anointed, and this he found Scripture for, after their sence.
+<note place="margin">
+                  <hi>Ann.</hi> 404. <hi>Conci. Pe. de Na.</hi>
+               </note> And Pope <hi>Innocent</hi> the 1. be<g ref="char:EOLhyphen"/>fore this, ordain'd, that the sick should be anointed, and that the Bishop should consecrate this oyl that should do this feat: and after this, when they had made so bold with the New Testament, turn<g ref="char:EOLhyphen"/>ing the words of <hi>Jam:</hi> 5.14. to this pur<g ref="char:EOLhyphen"/>pose, which was not a law set, but an advice for a time, for we never read any more of it, for above 400 years, and had it been a perpetuall custome, it had not needed now to be received, but being a novell here it had its Rise: but seeing they had made thus bold to bring in one of their seven Sacraments, they thought to make as good use of the old Testament, that the greatest Kings should be beholding to them for the Patent of their kingdom; and none must have it but those, that they might make benefit of, or at least durst not deny it them for the present. But when they had made
+<pb n="25" facs="tcp:170723:16"/>themselves strong, and the worlds opi<g ref="char:EOLhyphen"/>nion was such, that they were not right<g ref="char:EOLhyphen"/>ly made possessors of their Territories, except they had livery and seafin given them by this means. You may easily guesse what use they would make of this to possesse the world, what Authority they had for the donation of all tempo<g ref="char:EOLhyphen"/>rall States at their dispose: and should not those Kings act to their pleasures, and swear Fealtie at their Crowning, as you may see in the beginning of all the Statutes of every Kings Reign, that first they must swear to keep the Church in her due Rites, and priviledges, or else this anointing would have been denied, but none was to do this but the Arch<g ref="char:EOLhyphen"/>bishop in every Territory, or some one that was the Popes creature; and who would loose a kingdome for so small a thing? and this kept the Kings in awe, and the Pope in his greatnes. But let us see what Scriptures they have abused, I may say all where they could finde any smell of Oyl, or anointing, and there<g ref="char:EOLhyphen"/>fore I will name none in particular. But the chief President they took from the Kings of <hi>Judah,</hi> for they were anointed before Christ came by the command of
+<pb n="26" facs="tcp:170723:17"/>God, and so want seals to their Patent. But you must bear with them, for the New Testament is wrested for their pur<g ref="char:EOLhyphen"/>pose, and the old they must be as bold withall: as he that said, Cast thy self down, is it not written, I will give mine Angels charge over thee, that thou shalt not dash thy foot against a stone? No He<g ref="char:EOLhyphen"/>resie yet but hath found Scripture for his purpose, and let himself be Judge: but let us see how they have compacted this matter; view that that followeth, what a fine invention they have made of it after 1000. years being buried in filence, part before Christs time, and part after. And here see the part acted at the Coronation of those Kings that they were pleased to bestow this gift up<g ref="char:EOLhyphen"/>on, after the preceding Ceremonies were finished, he was to be anointed by the Archbishop, as my Author saith, and take it in his own words. <hi>Dominus Metro<g ref="char:EOLhyphen"/>politanus ungat de oleo sanctificato,</hi>
+               <note place="margin">Ordo Bo<g ref="char:EOLhyphen"/>manorum de divin. offic.</note>
+               <hi>Caput, pectus, &amp; scapulas, ambasque compages bra<g ref="char:EOLhyphen"/>chiorum ipsius, ita dicendo, ungo te in Regem de oleo sanctificato, in Nomine Patris, &amp; Filii, &amp; Spiritus sancti, &amp; dicant Amen. Pax tibi &amp; cum spirituo tuo, deinde ungat sibi manus de oleo sanctificato, ita dicendo: ungantur ma<g ref="char:EOLhyphen"/>nus
+<pb n="27" facs="tcp:170723:17"/>istae de oleo sanctificato unde uncti fuerunt Reges &amp; Prophetae, &amp; sicut unxit Samuel, David in Regem, ut sis benedictus &amp; consti<g ref="char:EOLhyphen"/>tutus, Rex in regno isto super populum istum quem Dominus Deus tuus dedit tibi ad Re<g ref="char:EOLhyphen"/>gendum, &amp; gubernandum.</hi>
+            </p>
+            <p>Here you may see the prety invention of the <hi>Romane</hi> Church, both in the acti<g ref="char:EOLhyphen"/>on in anointing the severall parts of the body, with a mysterious signification in each action, and the putting of the word to it that should be used in Baptism, and adding, <hi>Pax tibi &amp; cum spiritu tuo.</hi> Here you see their patched work they make of it: first, in the action which is their own invention. 2ly, In the words of Christ which is ancient, but impudently done to a wrong end. 3ly, <hi>Pax tibi, &amp;c.</hi> which was invented by Pope <hi>Innocentius, anno.</hi> 408. and by this shews that the whole thing is not of long continuance, for these words came not into the <hi>Litur<g ref="char:EOLhyphen"/>gie,</hi> but then, and so marreth the whole Ceremony, making it but of an yester<g ref="char:EOLhyphen"/>daies beginning, and verefies the words of our Saviour, for no man patcheth an old garment with a new cloath, for the rent is worse. So this putting in of this new invention marrs the whole, and
+<pb n="28" facs="tcp:170723:18"/>makes it apparent that it is not ancient, but extracted out of Jewish, heathenish, and idolatrous superstition. So here it is apparent, that they aime at the Jewish custome;
+<note place="margin">Decret. tit. de sacra Unctione.</note> for antiquity, you may easily know it, considering when Extream Un<g ref="char:EOLhyphen"/>ction came in, and before it was not. But now I shall shew you a Provinciall, which is an old Manuscript, and ob<g ref="char:EOLhyphen"/>serving the names of some Kings here specified, we may conjecture the Anti<g ref="char:EOLhyphen"/>quity: <hi>De Regibus Catholicorum &amp; Christia<g ref="char:EOLhyphen"/>norum: &amp; sunt quidam coronandi &amp; quidam non. Tamen illi qui coronantur debent inungi, &amp; tales habent privilegium ab antiquo &amp; de consuetudine, alio modo non debent coronari, nec inungi, sine istis, &amp; si faciunt ipsi, abu<g ref="char:EOLhyphen"/>tuntur indebite: &amp; sic incipiunt nomina Regum Christianorum fidelium hoc modo.</hi>
+            </p>
+            <p>
+               <hi>Rex Hierosolymitanus Coronatur &amp; in<g ref="char:EOLhyphen"/>ungitur.</hi>
+            </p>
+            <p>
+               <hi>Rex Francorum Coronatur &amp; inungitur.</hi>
+            </p>
+            <p>
+               <hi>Rex Ceciliae (Siciliae) coronatur &amp; in ungitur.</hi>
+            </p>
+            <p>
+               <hi>Rex Anglorum coronatur &amp; inungitur.</hi>
+            </p>
+            <p>
+               <hi>Rex Castellae non isti sunt conjuncti.</hi>
+            </p>
+            <p>
+               <hi>Rex Legionis non isti sunt conjuncti.</hi>
+            </p>
+            <p>
+               <hi>Rex Portugalensis non.</hi>
+            </p>
+            <p>
+               <hi>Rex Aragoniae non.</hi>
+            </p>
+            <pb n="29" facs="tcp:170723:18"/>
+            <p>
+               <hi>Rex Novargiae (Norvagiae</hi> it seems) <hi>non.</hi>
+            </p>
+            <p>
+               <hi>Rex Navarrae non.</hi>
+            </p>
+            <p>
+               <hi>Rex Danorum non.</hi>
+            </p>
+            <p>
+               <hi>Rex Boemiae non.</hi>
+            </p>
+            <p>
+               <hi>Rex Hungariae non.</hi>
+            </p>
+            <p>
+               <hi>Rex Armaniae non.</hi>
+            </p>
+            <p>
+               <hi>Rex Sorbiae</hi> (perhaps <hi>Serviae) non.</hi>
+            </p>
+            <p>
+               <hi>Rex Cypri non.</hi>
+            </p>
+            <p>
+               <hi>Rex Sardiniae non.</hi>
+            </p>
+            <p>
+               <hi>Rex Catholicus non.</hi>
+            </p>
+            <p>
+               <hi>Rex Comagiae</hi> (its likely it should be <hi>Co<g ref="char:EOLhyphen"/>nactiae) non.</hi>
+            </p>
+            <p>
+               <hi>Rex Nimianiae (Momoniae</hi> it seems) <hi>non.</hi>
+            </p>
+            <p>
+               <hi>Rex Ʋltoniae non.</hi>
+            </p>
+            <p>
+               <hi>Rex Collen non.</hi>
+            </p>
+            <p>
+               <hi>Et sciatis quod hodie non sunt plures Reges Christianorum nisi de novo crearentur.</hi>
+            </p>
+            <p>So you see but foure Kings of 22. that <hi>Rome</hi> would permit this honor to. There is a Provinciall Printed, wherein others are reckoned that are not here, and some omitted that this hath: And so by this you may see they have no certainty how many shall be anointed, but as pleaseth the Painter. Yet I shall desire you to read these merrie tales that follow from a very good Author,
+<note place="margin">Aurea Bul. Caro. 4. cap. 4.</note> and I will not wrong him, but put down all, and so take it: My Author saith, the <hi>French</hi> would needs
+<pb n="30" facs="tcp:170723:19"/>challenge propriety of anointing to their Soveraigns before other Princes. They talk of oyl descended from hea<g ref="char:EOLhyphen"/>ven in a vessel kept at <hi>Rheims</hi> wherewith their Kings have ever been anointed, and refer it to a miracle in Baptism of King <hi>Clouis</hi> or <hi>Lewis</hi> 1. about 500. of Christ: of it one of their own Poets, when <hi>Apollo</hi> was from home, speaking of the Coronation of <hi>Philip Augustus;</hi>
+               <q>
+                  <l>
+                     <hi>Sceptrifero fulsit redimitus honore</hi>
+                  </l>
+                  <l>
+                     <hi>Magnanimus sacro Rex delibutus olivo,</hi>
+                     <note place="margin">
+                        <hi>Guil. Brit. Philippeid.</hi> 1.</note>
+                  </l>
+                  <l>
+                     <hi>Quo Deus Angelicis manibus virtute pa<g ref="char:EOLhyphen"/>rato,</hi>
+                  </l>
+                  <l>
+                     <hi>Divinâ nostris concessit Regibus uti,</hi>
+                  </l>
+                  <l>
+                     <hi>Ʋt sacrentur eo soli specialiter illi.</hi>
+                  </l>
+                  <l>
+                     <hi>Qui successive Francorum sceptra capessunt.</hi>
+                  </l>
+                  <l>
+                     <hi>Quo major nostri patet excellentia Regni.</hi>
+                  </l>
+                  <l>
+                     <hi>Dignior ut vere Rex noster Rege sit omni.</hi>
+                  </l>
+                  <l>
+                     <hi>Quem sacrare suis Remorum Metropolites.</hi>
+                  </l>
+                  <l>
+                     <hi>Cum Compresulibus habet illocrismate sacro</hi>
+                  </l>
+                  <l>
+                     <hi>Hoc ad opus solum quod Caelica fundit O<g ref="char:EOLhyphen"/>liva.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>But no good authority will justifie this. Is it likely that <hi>Gregory</hi> of <hi>Tours</hi> so much given to the Relation of miracles would have omitted it?
+<note place="margin">Du. Hailan des aff. du Fratiure.</note> one more judi<g ref="char:EOLhyphen"/>cious, and not flattering the idle traditi<g ref="char:EOLhyphen"/>ons of his own Nation, denies (and not alone) that there were any <hi>de la primiere
+<pb n="31" facs="tcp:170723:19"/>lignee oinst ny sacre a Rhei ms ny alleurs,</hi> (that is of the <hi>Morovingiam</hi> line, which conti<g ref="char:EOLhyphen"/>nued till about 800. of Christ: But its expresly remembred in stories, that <hi>Pipin</hi> the first of the <hi>Charelin</hi> stock was anoin<g ref="char:EOLhyphen"/>ted) <hi>Mais de la second &amp; troisiesme la plus part ont este sacrez &amp; oincts en auters lieus q à Rheims, quoy que les Archevesques de Rheims de battent ce droit appertenir a eux el a leux esglise:</hi> By the second and third line he means the <hi>Carolin</hi> and <hi>Capetan,</hi> the <hi>Carolin</hi> succeeded the <hi>Morovingian:</hi>
+               <note place="margin">
+                  <hi>Del' excel des Roys iure</hi> 4.</note> and I wonder why <hi>Hierom Bignon</hi> a French Antiquarie now living, takes it so clear, that their Royall unction began in <hi>Clouis:</hi> we could give better authori<g ref="char:EOLhyphen"/>ty for the Kings, in this Isle of near 1000 years since, and much more according to some:
+<note place="margin">
+                  <hi>Vixit Gil<g ref="char:EOLhyphen"/>das. A scil.</hi> 470 <hi>si fides habenda au<g ref="char:EOLhyphen"/>tori vitae e<g ref="char:EOLhyphen"/>jus in Bib<g ref="char:EOLhyphen"/>lioth. For. &amp; Galfrid. menument. lib.</hi> 9. <hi>cap.</hi> 3. <hi>ex Epi<g ref="char:EOLhyphen"/>stolâ Gild. hoc memo<g ref="char:EOLhyphen"/>rat.</hi>
+               </note>
+               <hi>Gildas</hi> speaking of errors in Re<g ref="char:EOLhyphen"/>ligion, and neglect of all goodnes among the old <hi>Britons,</hi> addes, <hi>Ʋngebantur Reges non per Deum sed qui caeteris crudeliores exta<g ref="char:EOLhyphen"/>rent, &amp; paulo post ab unctoribus, non pro veri examinatione, trucidab antur, aliis electis tru<g ref="char:EOLhyphen"/>cioribus:</hi> but I will not be confident that it proves Unction in those times. The phrase might be used by him as at this day an heredicarie King after his Ance<g ref="char:EOLhyphen"/>stors death is said to be <hi>Rex,</hi> or <hi>Imperator
+<pb n="32" facs="tcp:170723:20"/>salutatus,</hi> which alludes onely to the old <hi>Romane</hi> form of salutation in making their Emperor; as we say also <hi>in imperi<g ref="char:EOLhyphen"/>um evectus est,</hi> derived from that custome of taking the design'd Emperours upon Shields in the Camp: the first of our Kings anointed, that best Authoritie speaks of, is <hi>Alured:</hi> he in the life of his Father <hi>Ethelwolph</hi> being sent to <hi>Rome,</hi> was there in confirmation made Pope <hi>Leo</hi> 4. his god-son, &amp; specially anointed as future King: so the consent of <hi>Asserius Menevensis, Ethelwerd, Malmesburie,</hi> and the rest of our old Monks justifies: but with what discretion or honestie should the Pope anoint a childe of five yeers old as a King, in hope of succession, while his Father was living, and three elder Brothers also, <hi>Ethelbald, Ethelbert,</hi> and <hi>Ethelred?</hi> I rather incline to beleeve, that the Chrisme used in Confirmation, and onely perhaps to that purpose by the Pope, was afterwards by <hi>English</hi> Monks, not without sufficient cause, ad<g ref="char:EOLhyphen"/>miring this brave Prince when he came to the Crown, taken also as a designing <hi>omen</hi> of his following greatnes, and that so they might speak the best, and largest of what the Pope did, and thereby give
+<pb n="33" facs="tcp:170723:20"/>aspeciall honour to their King, suppos'd to be an unction <hi>in Regem:</hi>
+               <note place="margin">Rob. Glo<g ref="char:EOLhyphen"/>cestrensis.</note> But howso<g ref="char:EOLhyphen"/>ever you may see what was thought of it by this old honest Rythme.
+<q>
+                  <l>
+                     <hi>Alfred this Noblemon as in the yer of Grace he nom</hi>
+                  </l>
+                  <l>
+                     <hi>Eyghte hundred and sixtie and twelve the kingdom</hi>
+                  </l>
+                  <l>
+                     <hi>Arst he had at Rome ybe and vor his gret wis<g ref="char:EOLhyphen"/>dome</hi>
+                  </l>
+                  <l>
+                     <hi>The Pope Leon him blissede tho he thuder come</hi>
+                  </l>
+                  <l>
+                     <hi>And the king is Croune of this lond that in this lond yut is.</hi>
+                  </l>
+                  <l>
+                     <hi>And</hi>
+                     <note n="*" place="margin">Oyled.</note>
+                     <hi>Eled him to be king ar he were king ywis</hi>
+                  </l>
+                  <l>
+                     <hi>And he was king of Engelond of all that there come</hi>
+                  </l>
+                  <l>
+                     <hi>That verst thus yeled was of the Pope of Rome</hi>
+                  </l>
+                  <l>
+                     <hi>And sut the other after him of the Erchebissop echon</hi>
+                  </l>
+                  <l>
+                     <hi>So that bivore him thur king was ther non.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>None of this excludes Unction before, but onely wills him the first anointed by the Pope: but we need not much blame the <hi>French</hi> tradition of their heavenly oyl: Our <hi>English</hi> have as good a tale. That our Ladie gave <hi>Thomas Becket</hi> Arch<g ref="char:EOLhyphen"/>bishop of <hi>Canterbury</hi> being in banishment under <hi>Hen.</hi> 2. a golden Eagle full of pre<g ref="char:EOLhyphen"/>cious ointment inclosed in a stone vessel,
+<pb n="34" facs="tcp:170723:21"/>commanding him to preserve it, and fore-telling <hi>quod Reges Anglorum qui un<g ref="char:EOLhyphen"/>gerentur hoc unguento pugiles essent Ecclesiae, &amp; benigni, &amp; terram amissam a parentibus pacifice recuperarent, donec aquilam cum am<g ref="char:EOLhyphen"/>pulla haberent:</hi> He committed it to safe<g ref="char:EOLhyphen"/>guard in a Monasterie at <hi>Poiters,</hi> where <hi>Henry</hi> the first Duke of <hi>Lancaster,</hi> under <hi>Edward</hi> the third, in the wars of <hi>France,</hi> had it delivered to him by an holy man (they say) which found it by Revelati<g ref="char:EOLhyphen"/>on: The Duke gave it the Black Prince: He sent it to the Tower there to be safe<g ref="char:EOLhyphen"/>ly kept in a chest strongly hoopt with Iron, where <hi>Richard</hi> the 2<seg rend="sup">d.</seg> Son to the Black Prince, in searching for his Fa<g ref="char:EOLhyphen"/>thers Jewels lighted on it, and much de<g ref="char:EOLhyphen"/>sired to be anointed with it: But the Archbishop answered him, <hi>Sibi sufficere quòd semel per manus suas sacram suscepit in Coronatione pristinâ Ʋnctionem, quae habere non debuit iterationem:</hi> The King notwith<g ref="char:EOLhyphen"/>standing carried it with him into <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> purposing (perhaps) there to have been anointed with it. But in his return at <hi>Chester</hi> he delivered it to the Arch<g ref="char:EOLhyphen"/>bishop, confessing that he did resolve it was decreed he should not be anointed with it; and so indeed it fell out; for af<g ref="char:EOLhyphen"/>ter
+<pb n="35" facs="tcp:170723:21"/>he was deposed, <hi>Hen:</hi> 4th. was ho<g ref="char:EOLhyphen"/>noured with this supposed divine oint<g ref="char:EOLhyphen"/>ment in his Coronation: Then need not the <hi>French</hi> argue their Kings honor from the Celestiall Unction:</p>
+            <p>
+               <hi>Ʋnguine cum Rhemi sacrentur materiali.</hi> As <hi>Brito</hi> saies: Here's as good and divine an ointment for the <hi>English:</hi> But I think, Reader, if you can judge, you beleeve both alike. I relate this of our Ladie as I finde it: and credit it as I do the stories of <hi>Numa's</hi> being instructed by <hi>Egeria, Mi<g ref="char:EOLhyphen"/>nos</hi> or <hi>Talus</hi> by <hi>Iupiter,</hi> or indeed like the story of <hi>Vitreus ordinationis liber,</hi> given by an Angel to Saint <hi>Columba,</hi> for the form of making <hi>Aida</hi> King of <hi>Scots</hi> about the yeer 600. and such more: Pretence of holinesse, and particulars received from Saints or Angels wrought much 'mongst the multitude in establishing State greatnesse: Examples are obvious.</p>
+            <p>Let us a little consider in reason, whe<g ref="char:EOLhyphen"/>ther God did decree mankinde to be so enslaved unto any as the Kings flatterers would have us.</p>
+            <p>No man but must submit to mans judgement, nay God himself cleared himself to <hi>Lot,</hi> and <hi>Abraham,</hi> about the Sodomites, of the justnes of their punish<g ref="char:EOLhyphen"/>ment;
+<pb n="36" facs="tcp:170723:22"/>and do not all the Prophets lay down an appealing of God to others, what he had done for his people, and by way of reference to be judge between him and them: and shall man, proud man, be of that sublime nature as to ad<g ref="char:EOLhyphen"/>mit no judgement? It is ever the greatest note of arrogancie to admit no disputes of mens cases or actions, and nothing but an imitation of Heathens policie that would be held gods, because they were (in tyranny) above men: be not as the Heathens in your rule, but let it be in humilitie, and meeknesse, one going before another: If any men were not judgeable, the Kings of <hi>Iudah</hi> would claim privilege, being of Gods immedi<g ref="char:EOLhyphen"/>ate appointment; But the Kings of <hi>Iudah</hi> were not invested with this privilege: therefore none, &amp;c. The Jews Sanedrim, Melech, and the <hi>Talmud</hi> telleth you, that their Kings were judged, and judged; nay <hi>David</hi> himself was subordinate to the same: if the Jews writers do not lead us into errors. The <hi>Sanedrim</hi> was to judge of the Kings sufficiencie for his place, and were not led by this blinde unlimited way of Succession, and this Kingdoms customes have been the same.
+<pb n="37" facs="tcp:170723:22"/>None are sworm to blinde obedience, but to known Laws: then what is not com<g ref="char:EOLhyphen"/>prehended in them none can be confi<g ref="char:EOLhyphen"/>ned by his Oath, or limited by the same.</p>
+            <p>It was harsh the command of <hi>Nahesh</hi> for his vassals to put out their right eye:
+<note place="margin">1 Sam. 9.2.</note> but this were more to blinde obedience to a thing not limited, this were to make them blinde souls, and not onely blinde in sight, not to defend themselves, but to run headlong to hell by the command of another: Those that hold in Villain<g ref="char:EOLhyphen"/>age of any, yet their Oath is limited (so far as is due) for should their Lord exact more, he was impleadable, and so to an<g ref="char:EOLhyphen"/>swer it, being judged by the Law what was right or wrong: and shall we fall be<g ref="char:EOLhyphen"/>lowe the degree of vassals? let him glory in his servitude, I like not that slavery.</p>
+            <p>And though this was thought much to be a Villaine, or the terme in these dayes may be held base, yet where the Lord did neglect the receit of this ho<g ref="char:EOLhyphen"/>mage, the Villaine might implead him; and the Law would enforce him: for by the receit of this homage the Lord was bound mutually to his protection, as the other to his obedience: and so a benefit to the inferior to have one to defend him,</p>
+            <pb n="38" facs="tcp:170723:23"/>
+            <p> These vassals might be turned over to another, but not to his deadly foe, as a thing against Law; And in this case the vassall might defend himself, and the Lord forfeit his Title of servitude.</p>
+            <p>And though taking up Arms may be a thing seeming contradictorie to fealty, yet the Villaine may endite his Lord for his life, &amp; may appeal him, fight against him in combate, or wage battell with him.</p>
+            <p>A free Tenant had the priviledge of having Arms given him, which made it a thing of honour, for the best men in each Town, to be of the Trained Band: but now men hold their own defence the basest action, so lowe are we fallen from the true spirit of men. And yet the Law permits the villaine to arm himself in self-preservation. It is a Case dispute<g ref="char:EOLhyphen"/>able, whether in Law a Villain may ap<g ref="char:EOLhyphen"/>peal, or Indict his Lord; in an appeal he should receive but dammage, and return to his Lord, but otherwise he should be free, nay limbe for limbe.</p>
+            <p>Tis true, the villaine ought not to do any thing to the prejudice of his Lord: as to dis-inherit him, or other things. No more may the Lord do against the
+<pb n="39" facs="tcp:170723:23"/>vassall: for if he do, he is free, and the homage dissolved.</p>
+            <p>Then sure, free-men unto whom the royall person sweareth, and they to him mutually, where a mutuall compact is made, sure there much more if that tie of a deeper engagement, &amp; they not least able to be their own self-preservers.</p>
+            <p>Kingdoms may be in fee to others, as <hi>Scotland</hi> to <hi>England,</hi> the <hi>English</hi> King to <hi>France,</hi> but not the Crown; yet these Kings, having received wrong from their leige Lord of <hi>France,</hi> waged warre for wrong done: yet when murther was laid to their charge, then they were cited to answer to the Law of <hi>France,</hi> as being a thing in which his person was bounded.</p>
+            <p>And do but look upon the good Laws of <hi>Hen:</hi> 1. and you shall find, that Coun<g ref="char:EOLhyphen"/>sels were convend for the honour of the Crown, and good of the kingdom, (not of the King) but kingdom: The confir<g ref="char:EOLhyphen"/>mation of the Charter <hi>Ed:</hi> 1. forbiddeth all Impositions, but by <hi>Commune</hi> consent of the Realm, <hi>Pur le commune profit de Ceo.</hi>
+            </p>
+            <p>The Oath of Allegiance in the time of the Confesser was, <hi>Sicut conjurati fratres ad defendendum Regnum contra alienigenas, &amp; contra inimicos, una cum Domino Rege,
+<pb n="40" facs="tcp:170723:24"/>&amp;c.</hi> And <hi>Arthur</hi> raised his subjects, and expelled the <hi>Saracens</hi> upon this score, calling them enemies, <hi>Regno,</hi> to the king<g ref="char:EOLhyphen"/>dom: and <hi>Edwards</hi> Oath hath reference to this, calling them all Felons; and theeves, that act any thing against the good of the kingdom, and not for the Prerogative of the Crown.</p>
+            <p>The Norman Oath was, <hi>Sicut fratres conjurati ad Regnum contra inimicos defen<g ref="char:EOLhyphen"/>dendum, &amp; pacem, &amp; dignitatem, &amp;c.</hi>
+            </p>
+            <p>This also continued in all Chartets, both by King <hi>Edward,</hi> and King <hi>William,</hi> with addition of, <hi>In utilitatem Anglorum:</hi> so that the Allegiance was more to the kingdoms good, then the Kings profit.</p>
+            <p>And it is a reall Treason to seduce the King from this; or an Army.</p>
+            <p>And also it is Treason in any one, (not any exception of King or any) for it is <hi>unicui{que}:</hi> what to all will some men say? no sure. Yes to all, all men living of this kingdom, <hi>(tam majores quam minores)</hi> yet some will hold this blowe not to reach the King; so I must shew that by the Law the King is expressed.</p>
+            <p>At the molding of this kingdom in the <hi>Saxons</hi> time, it was ordained, that the Kings Courts should be open to all
+<pb n="41" facs="tcp:170723:24"/>Plaints, by which they had originall Writs without delay, aswell against the King, or Queen, as any other persons; and we are likewise told, that it may hold in cases of life and death without Writ.</p>
+            <p>And now that you may the better be resolv'd, that the King had broken his protection, and had abused the kingdom in many particulars, view what follow<g ref="char:EOLhyphen"/>eth.</p>
+            <p>The Jesuited party was a little damp<g ref="char:EOLhyphen"/>ed with the Match of our King with <hi>France,</hi> for their designes ever ran for <hi>Spain;</hi> yet before they would fit still, they made that a way to procure their divel<g ref="char:EOLhyphen"/>lish practices.</p>
+            <p n="1">1. The first time they were perceived to do any thing, was the breaking up of the <hi>Oxford</hi> Parliament, when the Houses had given two Subsidies, and no grie<g ref="char:EOLhyphen"/>vances redressed.</p>
+            <p n="2">2. The <hi>Rochel</hi> Fleet delivered to the <hi>French</hi> King, contrary to Parliament.</p>
+            <p n="3">3. The diverting the wars of the <hi>West-Indians</hi> to that vain action of <hi>Cales.</hi>
+            </p>
+            <p n="4">4. By taking the <hi>French</hi> mens goods herein <hi>England</hi> to the Kings hands, and suffering the <hi>English</hi> Merchants goods in
+<pb n="42" facs="tcp:170723:25"/>
+               <hi>France</hi> to be lost, and had no relief by the <hi>French</hi> Merchants goods.</p>
+            <p n="5">5. The peace with <hi>Spain</hi> contrary to the Parliaments conclusion.</p>
+            <p n="6">6. Charging the Subjects with billet<g ref="char:EOLhyphen"/>ting of Souldiers, and bringing in of <hi>Germane</hi> Horse.</p>
+            <p n="7">7. Parliament <hi>Anno Car:</hi> 2. dissolved, after they had made a Declaration of granting five Subsidies, they exacted it after the breach of the Parliament, and many committed for not paying it.</p>
+            <p n="8">8. The <hi>Petition of Right</hi> blasted.</p>
+            <p n="9">9. Parl: <hi>Car:</hi> 4. Some of the Parlia<g ref="char:EOLhyphen"/>ment imprisoned.</p>
+            <p n="10">10. An untrue, and scandalous De<g ref="char:EOLhyphen"/>claration put forth to blast the peoples good opinion of the Parliament-men.</p>
+            <p n="11">11. A Proclamation to forbid them to speak of Parliaments.</p>
+            <p n="12">12. The unjust taxation of Knight<g ref="char:EOLhyphen"/>hood upon those that refused.</p>
+            <p n="13">13. Tonnage and Poundage, with other unconscionable Rates, contrarie to Law, and the Book of Rates, aug<g ref="char:EOLhyphen"/>mented.</p>
+            <p n="14">14. <hi>Shipmoney</hi> to the Charge of 700000 li. some yeers, and yet the Mer<g ref="char:EOLhyphen"/>chants unprotected.</p>
+            <p n="15">
+               <pb n="43" facs="tcp:170723:25"/> 15. The enlarging of Forrests, con<g ref="char:EOLhyphen"/>trary to the grant of <hi>Charta de Forestia.</hi>
+            </p>
+            <p n="16">16. The exacting of <hi>Coat and Conduct money,</hi> and taking the Arms of some of the Trained Bands.</p>
+            <p n="17">17. The engrossing of <hi>Gunpowder.</hi>
+            </p>
+            <p n="18">18. The destruction of the Timber in the <hi>Forrest of Deane</hi> by Papistical Farmers of the same.</p>
+            <p n="19">19. The taking away the Lands be<g ref="char:EOLhyphen"/>tween lowe and high water Marks.</p>
+            <p n="20">20. Monopolies of <hi>Sope, Salt, Wine, Leather, Sea-coal, &amp;c.</hi>
+            </p>
+            <p n="21">21. The oppression of <hi>Purveiers,</hi> and <hi>Clerks of the Market,</hi> and <hi>Salt-peter men.</hi>
+            </p>
+            <p n="22">22. The <hi>Sale of Buildings</hi> in and near <hi>London,</hi> pretending <hi>Nusens.</hi>
+            </p>
+            <p n="23">23. The abuses of the Commission of Shewers.</p>
+            <p n="24">24. Seizing of the Bullion of the Mint.</p>
+            <p n="25">25. The Project of Brass Money.</p>
+            <p n="26">26. Ships seized upon by Projecters, to force the Merchants to go to what Port the Projecter thought good, to the hurt of the Merchants.</p>
+            <p n="27">27. The extorting Fines of the Star<g ref="char:EOLhyphen"/>chamber.</p>
+            <p n="28">28. Judges put out of their places for not going contrary to their Oath.</p>
+            <p n="29">
+               <pb n="44" facs="tcp:170723:26"/> 29. A new clause of <hi>(durante bene pla<g ref="char:EOLhyphen"/>cito)</hi> put into the Judges grants, for <hi>(quam diu se bene gesserint)</hi> by which means they durst not do right.</p>
+            <p n="30">30. Lawyers and Sollicitors checked for being faithfull to their Clients.</p>
+            <p n="31">31. The Councell Table offering to binde the Subject in his Free-hold.</p>
+            <p n="32">32. The pretended Court of Earl Mar<g ref="char:EOLhyphen"/>shall arbitrary.</p>
+            <p n="33">33. Most of the Courts have exceeded their Commission.</p>
+            <p n="34">34. Leases of above an hundeed years forced to draw a Wardship.</p>
+            <p n="35">35. Forcing of <hi>Jurors</hi> to Finde for the King.</p>
+            <p n="36">36. The Common Law Courts seeing the Grist go from them, have done inju<g ref="char:EOLhyphen"/>stice, pretending Equity.</p>
+            <p n="37">37. The Sale of Offices and Honour.</p>
+            <p n="38">38. The Commission of extorting Fees abused.</p>
+            <p n="39">39. The rule of pricking Sheriffes a<g ref="char:EOLhyphen"/>bused.</p>
+            <p n="40">40. The Bishops did tyrannize in their Excommunications, Deprivations, De<g ref="char:EOLhyphen"/>gradations, so that the High Commis<g ref="char:EOLhyphen"/>sion was not inferior to the <hi>Spanish</hi> In<g ref="char:EOLhyphen"/>quisitition.</p>
+            <p n="41">
+               <pb n="45" facs="tcp:170723:26"/> 41. The publick and solemn Sermons before the King, was for the most part to suppresse the privilege of the Subject, and to extol the Prerogative of the King</p>
+            <p n="42">42. Commissioners of the Peace thrust out, if they were not of that Faction.</p>
+            <p n="43">43. Many of the Kings Councel were meerly Nominall, for a few did the busi<g ref="char:EOLhyphen"/>nes, and the rest must either consent, or be disgraced.</p>
+            <p>All these things thus set on foot, they begin to work their Stratagem.</p>
+            <p n="1">1. The Government must be set free from al restraint of Law, concerning our Person and State.</p>
+            <p n="2">2. There must be a Conjunction be<g ref="char:EOLhyphen"/>tween Papists and Protestants, in Do<g ref="char:EOLhyphen"/>ctrine, Discipline, and Ceremonies, but it must not be call'd so.</p>
+            <p n="3">3. And that this might be the better effected, they had a desire to bring the <hi>Scots</hi> to the same bait of the Canon and <hi>Liturgiae;</hi> they refusing it, an Army must be raised to enforce them: But God so turned the event, that it never came to blows; but Peace was concluded, which no little stagger'd the contrary Faction: But they so wrought, that a second Army was prepared, alledging nothing for the
+<pb n="46" facs="tcp:170723:27"/>grounds of it, but that the undutiful de<g ref="char:EOLhyphen"/>mands of the <hi>Scots</hi> were sufficient, not knowing the reason why.</p>
+            <p>And this Army was tempted to be turned against the Parliament; &amp; think you it was not then time to defend our selves? And this was not all, for the Cler<g ref="char:EOLhyphen"/>gie plaid their part, run an usual course, continued the Convocation by a new Commission, calling it a <hi>Provincial Synod,</hi> under which Authority they made new <hi>Cannons</hi> charged with an Oath to batter the Consciences of all religious men, that they might place into severall Offices both in Church and State, such as they thought fit for their purposes.</p>
+            <p>All these abuses the King brought up<g ref="char:EOLhyphen"/>on himself, and made them his own by defending the Actors, and not permit<g ref="char:EOLhyphen"/>ting them to come to justice; and if these crimes were not sufficient let any judge: yet what hath been done since is much more. But that I shall refer to the pains of them that sit at the helme, who have been better acquainted with the parti<g ref="char:EOLhyphen"/>lars then I.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
